@@ -1,0 +1,128 @@
+[
+  {
+    "Name": "Hummus",
+    "Description": "A ground chickpeas mixed with tahini, topped with olive oil and spices and served as a cold dip with homemade pita bread.",
+    "PictureUrl": "https://i.postimg.cc/X77ChKQD/Hummus.png",
+    "Price": 5.99,
+    "Category": "Appetizers"
+  },
+  {
+    "Name": "Spicy Hummus",
+    "Description": "A ground chickpeas mixed with tahini, topped with olive oil and spices and served as a cold dip with homemade pita bread.",
+    "PictureUrl": "https://i.postimg.cc/X77ChKQD/Hummus.png",
+    "Price": 5.99,
+    "Category": "Appetizers"
+  },
+  {
+    "Name": "Stuffed Grape Leaves",
+    "Description": "Six delicious grapevine leaves stuffed with seasoned rice and steamed, served cold.",
+    "PictureUrl": "https://i.postimg.cc/JnYxncdG/Stuffed-Grape-Leaves.png",
+    "Price": 6.99,
+    "Category": "Appetizers"
+  },
+  {
+    "Name": "Vegetable Lentil Soup",
+    "Description": "Homemade vegetarian soup made with lentil, carrots, onions, celery and spices.",
+    "PictureUrl": "https://i.postimg.cc/5tCQv50T/Veg-Lentil-Soup.png",
+    "Price": 8.99,
+    "Category": "Appetizers"
+  },
+  {
+    "Name": "Combo Feast",
+    "Description": "Combination of shish kabob, kefta kabob, shawarma, chicken tender and falafel served with rice, salad and homemade pita bread. *Pita bread contains gluten",
+    "PictureUrl": "https://i.postimg.cc/VLwycznN/Combination-Feast.png",
+    "Price": 12.99,
+    "Category": "Entrees"
+  },
+  {
+    "Name": "Beef Shish Kabob Entree",
+    "Description": "Grilled pieces of tender marinated beef (7 pcs.) served with rice, salad and homemade pita bread. *Pita bread contains gluten",
+    "PictureUrl": "https://i.postimg.cc/MZd0zDjM/Beef-Shish-Kabob-Entree.png",
+    "Price": 11.99,
+    "Category": "Entrees"
+  },
+  {
+    "Name": "Kefta Kabob Entrée",
+    "Description": "Grilled, seasoned and ground cuts of tender beef (7 pcs.), minced onion and parsley, served with rice, salad and homemade pita bread",
+    "PictureUrl": "https://i.postimg.cc/sg6DXM4Z/Kefta-Kabob-144.png",
+    "Price": 11.99,
+    "Category": "Entrees"
+  },
+  {
+    "Name": "Beef Shawarma Entrée",
+    "Description": "Thin slices of lightly seasoned beef cooked on a slowly revolving rotisserie, served with rice, salad and homemade pita bread",
+    "PictureUrl": "https://i.postimg.cc/c4PFNmV8/Beef-Shawarma-Entree.png",
+    "Price": 11.99,
+    "Category": "Entrees"
+  },
+  {
+    "Name": "Beef Shish Kabob Sandwich",
+    "Description": "Grilled pieces of marinated tender beef, served in a homemade pita pocket with lettuce and tomato.",
+    "PictureUrl": "https://i.postimg.cc/ncYQQG0h/Shish-Kabob-Sandwich.png",
+    "Price": 8.99,
+    "Category": "Sandwiches"
+  },
+  {
+    "Name": "Kefta Kabob Sandwich",
+    "Description": "Grilled, seasoned and ground cuts of tender beef, minced onion and parsley, served in a homemade pita pocket with lettuce and tomato.",
+    "PictureUrl": "https://i.postimg.cc/xdGZw7Pw/Kefta-Kabob-144.png",
+    "Price": 8.99,
+    "Category": "Sandwiches"
+  },
+  {
+    "Name": "Beef Shawarma Sandwich",
+    "Description": "Thin slices of lightly seasoned beef cooked on a slowly revolving rotisserie and served in a homemade pita pocket with lettuce, tomato and tahini sauce.",
+    "PictureUrl": "https://i.postimg.cc/PqBmMrZd/Beef-Shawarma-Sandwich.png",
+    "Price": 9.99,
+    "Category": "Sandwiches"
+  },
+  {
+    "Name": "Chicken Shawarma Sandwich",
+    "Description": "Thin slices of marinated chicken cooked on a slowly revolving rotisserie served in a homemade pita pocket with lettuce and tomato.",
+    "PictureUrl": "https://i.postimg.cc/cJtWVcrK/Chicken-Shawarma-Sandwich.png",
+    "Price": 9.99,
+    "Category": "Sandwiches"
+  },
+  {
+    "Name": "Gourmet Falafel Sandwich",
+    "Description": "Seasoned ground chickpeas and vegetables, formed into patties and deep fried to a flavorful crispness, served with potatoes and finely diced tomatoes, cucumbers, and pickles inside of a pita pocket.",
+    "PictureUrl": "https://i.postimg.cc/CK8dp81B/Gourmet-Falafel-Sandwich.png",
+    "Price": 6.99,
+    "Category": "Sandwiches"
+  },
+  {
+    "Name": "Lamb Kabob Sandwich",
+    "Description": "Fresh lamb, ground, spiced and grilled, served in a homemade pita pocket with lettuce and tomato.",
+    "PictureUrl": "https://i.postimg.cc/MXkqDP7Y/Lamb-Kabob-Sandwich.png",
+    "Price": 10.99,
+    "Category": "Sandwiches"
+  },
+  {
+    "Name": "French Fries",
+    "Description": "Our top quality fries, crisped to a golden perfection.",
+    "PictureUrl": "https://i.postimg.cc/2yWMGz8y/French-Fries.png",
+    "Price": 2.99,
+    "Category": "Sides"
+  },
+  {
+    "Name": "Falafel",
+    "Description": "Seasoned ground chickpeas and vegetables, formed into patties and deep fried to a flavorful crispness.",
+    "PictureUrl": "https://i.postimg.cc/pryXL5ZC/Falafel-Dozen.png",
+    "Price": 1.0,
+    "Category": "Sides"
+  },
+  {
+    "Name": "Kinafa",
+    "Description": "A traditional Middle Eastern dessert made of a layer of shredded fillo dough on top of a layer of melted cheese. Topped with pistachios and a simple syrup.",
+    "PictureUrl": "https://i.postimg.cc/rFQ9DDkZ/Kinafa-1.png",
+    "Price": 3.0,
+    "Category": "Desserts"
+  },
+  {
+    "Name": "Baklawa",
+    "Description": "A dessert made of layers of fillo dough, with a walnut and cinnamon filling, sweetened with a simple syrup.",
+    "PictureUrl": "https://i.postimg.cc/RhvDz27z/Baklawa-1.png",
+    "Price": 3.0,
+    "Category": "Desserts"
+  }
+]
